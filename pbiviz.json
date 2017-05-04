@@ -1,0 +1,25 @@
+{
+  "visual": {
+    "name": "openlayersPbi",
+    "displayName": "openlayersPbi",
+    "guid": "openlayersPbiC4679961E0C04F12BE8104EE48E3B4A4",
+    "visualClassName": "Visual",
+    "version": "1.0.0",
+    "description": "",
+    "supportUrl": "",
+    "gitHubUrl": ""
+  },
+  "apiVersion": "1.6.0",
+  "author": {
+    "name": "",
+    "email": ""
+  },
+  "assets": {
+    "icon": "assets/icon.png"
+  },
+  "externalJS": [],
+  "style": "style/visual.less",
+  "capabilities": "capabilities.json",
+  "dependencies": "dependencies.json",
+  "stringResources": []
+}

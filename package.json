@@ -1,0 +1,6 @@
+{
+  "name": "visual",
+  "dependencies": {
+    "openlayers": "^4.1.1"
+  }
+}
